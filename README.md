@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm EvgeniyCheraev
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r1zd1ch&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r1zd1ch&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r1zd1ch&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **R1zd1ch/r1zd1ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
